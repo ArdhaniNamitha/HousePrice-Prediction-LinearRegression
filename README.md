@@ -62,9 +62,11 @@ These metrics help determine how well the model performs and whether it can be t
 
 ---
 
-## Visual Analysis
+## 📉 Visual Analysis
 
-A scatter plot is generated to visualize how close the predicted house prices are to the actual prices. A red diagonal line is drawn for reference, indicating perfect prediction. The tighter the clustering around this line, the better the model performance.
+Below is a scatter plot showing the relationship between the actual house prices and the prices predicted by the linear regression model. Ideally, points closer to the red diagonal line indicate more accurate predictions.
+
+![Scatter Plot](scatter%20plot.png)
 
 ---
 
