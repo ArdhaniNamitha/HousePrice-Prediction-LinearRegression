@@ -66,7 +66,7 @@ These metrics help determine how well the model performs and whether it can be t
 
 Below is a scatter plot showing the relationship between the actual house prices and the prices predicted by the linear regression model. Ideally, points closer to the red diagonal line indicate more accurate predictions.
 
-![Scatter Plot](scatter%20plot.png)
+[🔗 Scatter Plot](scatter%20plot.png)
 
 ---
 
